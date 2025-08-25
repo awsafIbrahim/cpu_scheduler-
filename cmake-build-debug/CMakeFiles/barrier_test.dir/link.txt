@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/barrier_test.dir/prosim/bar_test.c.o CMakeFiles/barrier_test.dir/prosim/barrier.c.o -o barrier_test 

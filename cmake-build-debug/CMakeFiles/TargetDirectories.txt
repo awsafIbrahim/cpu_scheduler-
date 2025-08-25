@@ -1,3 +1,0 @@
-/users/cs/aibrahim/users/cs/aibrahim/cmake-build-debug/CMakeFiles/prosim.dir
-/users/cs/aibrahim/users/cs/aibrahim/cmake-build-debug/CMakeFiles/edit_cache.dir
-/users/cs/aibrahim/users/cs/aibrahim/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/prosim.dir/prosim/context.c.o CMakeFiles/prosim.dir/prosim/main.c.o CMakeFiles/prosim.dir/prosim/prio_q.c.o CMakeFiles/prosim.dir/prosim/process.c.o CMakeFiles/prosim.dir/prosim/barrier.c.o CMakeFiles/prosim.dir/prosim/message.c.o -o prosim 

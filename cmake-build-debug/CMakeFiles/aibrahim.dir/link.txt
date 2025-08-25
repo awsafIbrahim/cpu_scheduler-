@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/aibrahim.dir/prosim/context.c.o CMakeFiles/aibrahim.dir/prosim/main.c.o CMakeFiles/aibrahim.dir/prosim/prio_q.c.o CMakeFiles/aibrahim.dir/prosim/process.c.o -o aibrahim 

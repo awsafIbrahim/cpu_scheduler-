@@ -1,6 +1,0 @@
-CMake File API: can not create 'toolchains-v1' query: 'com.intellij.ssh.SshException: Timeout expired: 30000 MILLISECONDS'
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/usr/bin/gmake -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "Unix Makefiles" -S /users/cs/aibrahim/users/cs/aibrahim -B /users/cs/aibrahim/users/cs/aibrahim/cmake-build-release
--- Configuring done
--- Generating done
--- Build files have been written to: /users/cs/aibrahim/users/cs/aibrahim/cmake-build-release
-Cannot resolve path 'C:\Users\awsaf\Desktop\3120\Assignment 4\aibrahim\cmake-build-release'
