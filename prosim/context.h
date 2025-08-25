@@ -1,6 +1,3 @@
-//
-// Created by Alex Brodsky on 2023-04-02.
-//
 
 #ifndef ASSIGNMENT_1_CONTEXT_H
 #define ASSIGNMENT_1_CONTEXT_H

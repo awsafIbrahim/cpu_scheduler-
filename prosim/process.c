@@ -1,6 +1,4 @@
-//
-// Created by Alex Brodsky on 2023-05-07.
-//
+
 
 #include <assert.h>
 #include <stdlib.h>

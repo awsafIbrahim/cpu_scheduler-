@@ -1,6 +1,3 @@
-//
-// Created by Alex Brodsky on 2023-05-07.
-//
 
 #ifndef PROSIM_PROCESS_H
 #define PROSIM_PROCESS_H

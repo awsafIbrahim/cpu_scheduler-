@@ -1,6 +1,3 @@
-//
-// Created by Alex Brodsky on 2021-04-29.
-//
 
 #ifndef PRIO_Q_H
 #define PRIO_Q_H
